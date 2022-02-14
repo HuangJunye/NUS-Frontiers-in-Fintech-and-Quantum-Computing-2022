@@ -7,11 +7,12 @@ This tutorial will be held on Feb. 21, 15:00 - 18:00 SGT (12:30 - 15:30 IST).
 **Agenda**
 - Introduction to Quantum Computing and IBM Quantum (30 min)
 - IBM Quantum Tools and Qiskit demo (30 min)
-- Finance use cases demo 
+- Introduction to Quantum Finance (30 min)
+- Finance use cases demo
   - Portfolio optimization (30 min)
   - Option pricing (30 min)
         
-If you would like to follow along jands-on during the live demos, please create an account on the IBM Quantum platform: [quantum-computing.ibm.com](https://quantum-computing.ibm.com/).
+If you would like to follow along hands-on during the live demos, please create an account on the IBM Quantum platform: [quantum-computing.ibm.com](https://quantum-computing.ibm.com/).
 
 You aren't required to have any knowledge of quantum computing or Qiskit beforehand, but here are a few things to check out for the extra curious:
 
