@@ -5,12 +5,15 @@ Hello learners! We're very excited in your interest to participate in this tutor
 This tutorial will be held on Feb. 21, 15:00 - 18:00 SGT (12:30 - 15:30 IST).
 
 **Agenda**
-- Introduction to Quantum Computing and IBM Quantum (30 min)
-- IBM Quantum Tools and Qiskit demo (30 min)
-- Introduction to Quantum Finance (30 min)
-- Finance use cases demo
-  - Portfolio optimization (30 min)
-  - Option pricing (30 min)
+|     Start    |      End     |     Duration    |     Subject                                                           |
+|:------------:|:------------:|:---------------:|-----------------------------------------------------------------------|
+|     15:00    |     15:05    |       0:05      |     Opening and Overview                                              |
+|     15:05    |     15:30    |       0:25      |     Introduction to Quantum Computing and IBM Quantum                 |
+|     15:30    |     16:10    |       0:40      |     Hands-on session:  1) IBM Quantum tools  2) Qiskit demo           |
+|     16:10    |     16:20    |       0:10      |     Break                                                             |
+|     16:20    |     16:50    |       0:30      |     Introduction to Quantum Finance                                   |
+|     16:50    |     17:50    |       1:00      |     Hands-on session:  1) Portfolio optimization 2) Option pricing    |
+|     17:50    |     18:00    |       0:10      |     Q & A                                                             |
         
 If you would like to follow along hands-on during the live demos, please create an account on the IBM Quantum platform: [quantum-computing.ibm.com](https://quantum-computing.ibm.com/).
 
