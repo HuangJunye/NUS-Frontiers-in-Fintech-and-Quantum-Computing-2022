@@ -12,7 +12,7 @@ This tutorial will be held on Feb. 21, 15:00 - 18:00 SGT (12:30 - 15:30 IST).
 |     15:30    |     16:10    |       0:40      |     Hands-on session:  1) IBM Quantum tools  2) Qiskit demo           |
 |     16:10    |     16:20    |       0:10      |     Break                                                             |
 |     16:20    |     16:50    |       0:30      |     Introduction to Quantum Finance                                   |
-|     16:50    |     17:50    |       1:00      |     Hands-on session:  1) Portfolio optimization 2) Option pricing    |
+|     16:50    |     17:50    |       1:00      |     Hands-on session:  1) Option pricing 2) Portfolio optimization    |
 |     17:50    |     18:00    |       0:10      |     Q & A                                                             |
         
 If you would like to follow along hands-on during the live demos, please create an account on the IBM Quantum platform: [quantum-computing.ibm.com](https://quantum-computing.ibm.com/).
