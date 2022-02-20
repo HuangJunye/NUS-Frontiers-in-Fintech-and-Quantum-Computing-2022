@@ -29,21 +29,21 @@ We look forward to seeing you there!
 
 -- Junye Huang & Radha Pyari Sandhir
 
-**Additional Useful Resources**
+## Additional Useful Resources
 
-## Circuit Composer 
+**Circuit Composer** 
 1. [Circuit composer](https://quantum-computing.ibm.com/composer): drag-and-drop circuit builder
 2. [Gates](https://quantum-computing.ibm.com/composer/docs/operations-glossary/operations-glossary): basic operations for quantum computers
 3. [Visualizations](https://quantum-computing.ibm.com/composer/docs/iqx/visualizations): visualize quantum states
 4. [Quantum services](https://quantum-computing.ibm.com/services): a wide range of quantum systems and simulators offered by IBM Quantum
 
-## Quantum Lab 
+**Quantum Lab**
 1. [Quantum lab](https://quantum-computing.ibm.com/lab): Jupyter notebook on the cloud for running comprehensive circuits and algorithms using Qiskit
 2. [Getting started with Qiskit](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html): learn the basics of Qiskit and quantum computing
 3. [Qiskit documentation](https://qiskit.org/documentation/): find documentation for Qiskit APIs
 4. [Qiskit tutorials](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html): interactive Jupyter notebook tutorials for using various Qiskit features and applications 
 
-## Qiskit Community
+**Qiskit Community**
 
 1. [StackExchange](https://quantumcomputing.stackexchange.com/questions/tagged/qiskit): have questions about Qiskit? this is the right place to find your answers
 2. [Slack](https://ibm.co/joinqiskitslack): come hang out with other community members!
