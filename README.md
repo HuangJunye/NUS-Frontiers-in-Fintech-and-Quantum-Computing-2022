@@ -19,12 +19,32 @@ If you would like to follow along hands-on during the live demos, please create 
 
 You aren't required to have any knowledge of quantum computing or Qiskit beforehand, but here are a few things to check out for the extra curious:
 
-- [Qiskit on Twitter](https://twitter.com/Qiskit)
-- [Qiskit on Medium](https://medium.com/qiskit)
-- [Qiskit YouTube Channel](https://www.youtube.com/c/qiskit)
-- [Qiskit Textbook](https://qiskit.org/textbook/preface.html)
-- [IBM Research YouTube Channel](https://www.youtube.com/channel/UCwx7Y3W30N8aS_tiCy2x-2g)
+- [Qiskit on Twitter](https://twitter.com/Qiskit): follow for the latest information about Qiskit and community events
+- [Qiskit on Medium](https://medium.com/qiskit): in-depth source for latest Qiskit features and community events
+- [Qiskit YouTube Channel](https://www.youtube.com/c/qiskit): subscribe for the latest Qiskit tips and tricks.
+- [Qiskit Textbook](https://qiskit.org/textbook/preface.html): a free digital open source textbook that will teach you the concepts of quantum computing while you learn to use Qiskit.
+- [IBM Research YouTube Channel](https://www.youtube.com/channel/UCwx7Y3W30N8aS_tiCy2x-2g): subscribe to keep up with IBM Research
 
 We look forward to seeing you there!
 
 -- Junye Huang & Radha Pyari Sandhir
+
+## Additional Useful Resources
+
+**Circuit Composer** 
+1. [Circuit composer](https://quantum-computing.ibm.com/composer): drag-and-drop circuit builder
+2. [Gates](https://quantum-computing.ibm.com/composer/docs/operations-glossary/operations-glossary): basic operations for quantum computers
+3. [Visualizations](https://quantum-computing.ibm.com/composer/docs/iqx/visualizations): visualize quantum states
+4. [Quantum services](https://quantum-computing.ibm.com/services): a wide range of quantum systems and simulators offered by IBM Quantum
+
+**Quantum Lab**
+1. [Quantum lab](https://quantum-computing.ibm.com/lab): Jupyter notebook on the cloud for running comprehensive circuits and algorithms using Qiskit
+2. [Getting started with Qiskit](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html): learn the basics of Qiskit and quantum computing
+3. [Qiskit documentation](https://qiskit.org/documentation/): find documentation for Qiskit APIs
+4. [Qiskit tutorials](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html): interactive Jupyter notebook tutorials for using various Qiskit features and applications 
+
+**Qiskit Community**
+
+1. [StackExchange](https://quantumcomputing.stackexchange.com/questions/tagged/qiskit): have questions about Qiskit? this is the right place to find your answers
+2. [Slack](https://ibm.co/joinqiskitslack): come hang out with other community members!
+
